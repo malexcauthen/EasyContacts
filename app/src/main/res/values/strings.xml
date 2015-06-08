@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy Contacts</string>
+
+    <string name="textview">Add contact info!</string>
+    <string name="button1">Update Contact Information</string>
+    <string name="button2">Exchange Contacts</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contactinfo">Contact Information</string>
+
+
+</resources>
